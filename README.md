@@ -44,4 +44,4 @@ MBTI와 성향 데이터를 AI가 분석해 단순 랜덤이 아닌 데이터 �
 
 **핵심 AI 기능:** 성격 기반 매칭 / 매칭 사유 생성 / 맞춤형 대화 주제 제안
 
-[배포 링크](https://gemini.google.com/share/1115520c9918)
+[배포 링크](https://gemini.google.com/share/9e464a86a25a)
